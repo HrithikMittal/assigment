@@ -1,0 +1,5 @@
+{
+  "/signup": "POST - Signup for the user",
+  "/login": "POST - Login for the user",
+  "/signout": "POST - signout for the user"
+}
