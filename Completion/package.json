@@ -7,16 +7,8 @@
     "start": "node index.js",
     "test": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HrithikMittal/Completion.git"
-  },
   "author": "Adhikansh Mittal",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HrithikMittal/Completion/issues"
-  },
-  "homepage": "https://github.com/HrithikMittal/Completion#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
